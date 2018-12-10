@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "typegoose": "^5.4.1"
+  }
+}
